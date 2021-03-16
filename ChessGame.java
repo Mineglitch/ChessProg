@@ -9,6 +9,8 @@ public class ChessGame {
     
     // Loading Parameters
     
+    // Cheese is pretty damn good.
+    
     boolean isDefault = true; // Default when it has loaded defaultArrangement.txt
     
     LinkedList<String> textFileContent = new LinkedList<>(); // Used to store the content of the set File Name content 
